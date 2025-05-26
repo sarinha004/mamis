@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   background-color: #fff0f0;
-  color: #b30000;
+  color: #850087;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,12 +27,12 @@ img {
   width: 250px;
   height: auto;
   border-radius: 15px;
-  box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
+  box-shadow: 0 0 10px rgba(175, 6, 213, 0.2);
   margin-bottom: 20px;
 }
 
 footer {
   font-size: 0.9em;
-  color: #a10000;
+  color: #ec1cff;
   margin-top: 30px;
 }
